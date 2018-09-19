@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package holamundocapas;
+package holamundocapas.view;
 
 import holamundocapas.view.View;
 import javax.swing.JFrame;
