@@ -12,7 +12,7 @@ package holamundocapas.view;
 public class ViewFactory {
     
     public static View getView(){
-        return new SwingImplementatiton();
+        return new JavaFXViewImplementation();
     }
     
     

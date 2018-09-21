@@ -15,7 +15,7 @@ public class ModelImplementation implements Model {
     
     public String getGreeting(){
         
-        return "Hello World";
+        return "HOLAAA";
     }
     
 }
